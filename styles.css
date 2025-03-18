@@ -247,7 +247,7 @@ border-radius: 50%;
     filter: brightness(.9);
 }
 
-@media (max-width: 2048px) {
+@media (max-width: 1024px) {
     /* SECTION 1: Hero*/
     .hero-section {
         flex-direction: column-reverse;
